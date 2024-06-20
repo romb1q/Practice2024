@@ -1,4 +1,5 @@
 'use strict';
+// 2 task
 function findValueInArray(array, value) {
     if (array.find(el => el === value ? true : false)) {
         return true;
