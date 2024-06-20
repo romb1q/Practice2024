@@ -1,3 +1,4 @@
+// 2 task
 let x = 2;
 var y = 3;
 const z = 4;
