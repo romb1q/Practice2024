@@ -1,4 +1,5 @@
 'use strict';
+// 3 task
 function findVowelsLettesInString(string) {
     let vowels = ['a', 'e', 'i', 'o', 'u', 'y'];
     let vowelsCount = 0;
